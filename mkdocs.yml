@@ -15,3 +15,9 @@ theme:
     - navigation.tabs.sticky
 nav:
   - Home: index.md
+  - Getting Started:
+    - Why should you use this template?: getting-started/why-should-you-use-this-template.md
+    - Requirements: getting-started/requirements.md
+    - Installation: getting-started/installation.md
+    - File Structure: getting-started/file-structure.md
+    - Usage: getting-started/usage.md
