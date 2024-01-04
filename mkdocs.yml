@@ -6,6 +6,8 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - footnotes
+  - toc:
+      permalink: true
 theme:
   name: material
   icon:
