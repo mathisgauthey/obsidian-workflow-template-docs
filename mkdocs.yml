@@ -8,6 +8,9 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 theme:
   name: material
   icon:
