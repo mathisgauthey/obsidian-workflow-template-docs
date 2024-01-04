@@ -6,7 +6,7 @@ My templater plugin configuration uses the `Filename-Template.md` file to choose
 
 Basically, if it is created with a daily or periodic note title type, it will select the appropriate template and folder :
 
-```
+```txt
 { format: "YYYY-MM-DD", template: "Daily-Notes.md" },
 { format: "GGGG-[W]WW", template: "Weekly-Notes.md" },
 { format: "YYYY-MM", template: "Monthly-Notes.md" },
@@ -16,7 +16,7 @@ Basically, if it is created with a daily or periodic note title type, it will se
 
 If not, it will just use either the Area template or the default template for the inbox :
 
-```
+```txt
 { format: "Area", template: "Areas.md" },
 { format: "Default", template: "Untitled.md" },
 ```
