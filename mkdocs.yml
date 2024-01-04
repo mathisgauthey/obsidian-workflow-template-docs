@@ -46,4 +46,12 @@ nav:
     - Requirements: getting-started/requirements.md
     - Installation: getting-started/installation.md
     - File Structure: getting-started/file-structure.md
-    - Usage: getting-started/usage.md
+    - Auto-upload to website: getting-started/auto-upload-to-website.md
+  - Usage:
+    - Tasks and projects creation: usage/tasks-and-projects-creation.md
+    - Tasks and projects management: usage/tasks-and-projects-management.md
+    - Journaling: usage/journaling.md
+    - Passions backlog: usage/passions-backlog.md
+    - Read-it-later: usage/read-it-later.md
+    - Github-publisher: usage/github-publisher.md
+    - Template files: usage/template-files.md
