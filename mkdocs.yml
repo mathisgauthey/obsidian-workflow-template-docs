@@ -1,6 +1,10 @@
 site_name: obsidian-workflow-template-docs
 repo_url: https://github.com/mathisgauthey/obsidian-workflow-template
 repo_name: mathisgauthey/obsidian-workflow-template-docs
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
 theme:
   name: material
   icon:
