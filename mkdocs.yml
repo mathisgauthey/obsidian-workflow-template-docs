@@ -1,5 +1,9 @@
 site_name: obsidian-workflow-template-docs
+repo_url: https://github.com/mathisgauthey/obsidian-workflow-template
+repo_name: mathisgauthey/obsidian-workflow-template-docs
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
 nav:
   - Home: index.md
