@@ -23,3 +23,6 @@ If you used the [template during 2023](https://github.com/mathisgauthey/obsidian
 - [My Complete Obsidian Workflow to Manage My Life](https://mathisgauthey.github.io/my-complete-obsidian-workflow-to-manage-my-life/)
 - [Obsidian Publish Alternative, How to One-Click Upload Your Notes on Your Own Website](https://mathisgauthey.github.io/obsidian-publish-alternative-how-to-one-click-upload-your-notes-on-your-own-website/)
 - [Why Using Obsidian for Life Management](https://mathisgauthey.github.io/why-using-obsidian-for-life-management/)
+
+[^1]: Project.Areas.Resources.Archives
+[^2]: Getting Things Done
