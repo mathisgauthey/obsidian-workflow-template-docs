@@ -1,5 +1,14 @@
 # Tasks and projects management
 
+## The workflow
+
+The workflow is entirely inspired from the book Getting Things Done from David Allen. Here's a [quick overview](https://todoist.com/productivity-methods/getting-things-done) :
+
+1. Add items to the todoist inbox everytime you have an idea or a task to do. To cite David Allen, the creator of the GTD method, "Your mind is for having ideas, not holding them".
+2. Clarify and organize your inbox items and add them to the appropriate part of your vault (`One-off tasks`, `projects`, `project tasks`, `passions items`, `someday maybe`). Add tags, dates, and any relevant properties that will make you do it at the right time in the future or at least remember them.
+3. Engage with your tasks and projects by using your daily note to direct your actions. I personally pick my tasks from the `Today ☀️` section of my daily note, and I copy them to `Super Productivity`. I then add an estimated time to each task and start working on them.
+4. Review your system periodicly to make sure you are on track and that you have not forgotten anything. I personally do it on Sunday evening.
+
 ## The Daily Note
 
 The Daily Note is the main part of your workflow. It has :
