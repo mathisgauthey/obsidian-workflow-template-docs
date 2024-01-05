@@ -10,7 +10,6 @@ The excluded folder are :
 
 ```txt
 _Sources -> You don't want online links tasks to be shown as tasks
-4-Archives -> Archived notes that still have tasks won't be able to display them
 5-Templates -> Template files are excluded as well
 ```
 
